@@ -1,0 +1,62 @@
+Privacy Policy for Loc’d In
+
+Effective Date: 19th October, 2024
+
+At Loc’d In, we prioritize the privacy of our users. This Privacy Policy outlines how we collect, use, and protect your personal information when you use our mobile application (the “App”). By using the App, you agree to the collection and use of information in accordance with this Privacy Policy.
+1. Information We Collect
+
+We collect the following types of information from our users:
+a. Personal Information
+
+When you register or interact with the App, we may collect personal information such as:
+
+    Name
+    Email address
+    Profile picture
+    Location (optional)
+    Dreadlock journey information (photos, posts, etc.)
+
+b. Usage Data
+
+We collect information about how the App is accessed and used. This may include:
+
+    Device information (device model, operating system, etc.)
+    IP address
+    App activity (posts, likes, follows, etc.)
+    Log files
+
+c. Photos and Media
+
+If you share images, including dreadlock progress photos, with Loc'd In, these are stored and shared within the community. You have the ability to manage or delete this content at any time.
+2. How We Use Your Information
+
+We use the collected data for various purposes, including:
+
+    To provide and maintain the App
+    To enhance the App's functionality and improve your experience
+    To communicate with you regarding updates, features, or customer service
+    To enable social features, like following users or commenting on posts
+    To enforce our Terms of Service
+
+3. Sharing Your Information
+
+We do not sell, trade, or rent your personal information to third parties. However, we may share your information with:
+
+    Service providers: Third-party services (e.g., hosting, analytics) that assist in the operation of the App.
+    Law enforcement: If required by law or in response to valid requests by public authorities.
+
+4. Data Security
+
+We take reasonable steps to protect your personal information from unauthorized access, use, or disclosure. However, no data transmission over the internet or storage system is guaranteed to be 100% secure.
+5. User Control and Data Retention
+
+You can access, update, or delete your personal information directly within the App settings. If you wish to delete your account entirely, please contact us at [Insert Contact Email]. We retain your data only as long as necessary for the purposes described in this policy.
+6. Children’s Privacy
+
+Loc’d In is not intended for use by individuals under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that a user under 13 has provided us with personal information, we will take steps to delete such data.
+7. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy within the App or by email. You are advised to review this Privacy Policy periodically for any changes.
+8. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at: japhetgondwe20@gmail.com
